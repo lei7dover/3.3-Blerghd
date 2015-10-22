@@ -76,7 +76,7 @@ nav ul {
 nav div{
   border-top:3px solid #6D6D6D;
   width:42%;
-  margin:-22px 4% 0 4%;
+  margin:-5% 4% 0 4%;
   float:right;
 }
 /*ul.post__headerNav:before {
@@ -116,7 +116,7 @@ ul.post__headerNav li {
   width: 50%;
   margin-left: 50%;
   min-height: 200px;
-  padding: 87px 50px 0px 50px;
+  padding: 98px 50px 0px 50px;
   line-height: 27px;
   color: #6D6D6D;
   list-style-type: none;
